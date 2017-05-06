@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DrawLIne</string>
+    <string name="line_draw">Line Draw</string>
+    <string name="equation_yequals">y =</string>
+    <string name="equation_m">m</string>
+    <string name="equation_xplus">x +</string>
+    <string name="equation_b">b</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="game_title">Draw Line</string>
+    <string name="choose_category">Choose Category: </string>
+    <string name="choose_two_points">Two Points</string>
+    <string name="choose_yintercept_slope"><![CDATA[y-Intercept & Slope]]></string>
+    <string name="choose_point_slope"><![CDATA[Point & Slope]]></string>
+    <string name="gametitle_twopoints">Two Points</string>
+    <string name="yintercept_slope">Y-Intercept and Slope</string>
+    <string name="point_slope"><![CDATA[Point & Slope]]></string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="ok">ok</string>
+    <string name="btn_generate">Generate</string>
+    <string name="btn_createmyown">Create my own</string>
+</resources>
